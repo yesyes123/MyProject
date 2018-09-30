@@ -5,6 +5,8 @@ public class Test {
 		Subtract s = new Subtract();
 		
 		int sum = s.subtract(10, 5);
+		
+		System.out.println(sum);
 
 	}
 
