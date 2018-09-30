@@ -6,6 +6,7 @@ public class Test {
 		
 		int sum = s.subtract(10, 5);
 		
+		System.out.print("10-5=");
 		System.out.println(sum);
 
 	}
